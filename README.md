@@ -1,5 +1,11 @@
 # Projeto PokéAPI
 
+<div align="center">
+  <img alt="snorlax" height="150" src="https://media.tenor.com/w33hdDzoSE0AAAAj/haunter.gif">
+</div>
+
+<br> 
+
 Este é um projeto básico de API RESTful que utiliza a [PokéAPI](https://pokeapi.co/) para buscar dados de Pokémons,
 salvá-los em um banco de
 dados e exibir ou remover registros. Ele permite realizar operações **CRUD** básicas para gerenciar uma lista de
